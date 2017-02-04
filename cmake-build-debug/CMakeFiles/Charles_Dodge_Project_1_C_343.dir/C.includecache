@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/cwins/Desktop/School/2017/Winter/CIS 343 - Structure of Programming Languages/Projects/Project 1 - reverse in C/file_utils.c
+sys/stat.h
+-
+malloc.h
+-
+stdio.h
+-
+
+C:/Users/cwins/Desktop/School/2017/Winter/CIS 343 - Structure of Programming Languages/Projects/Project 1 - reverse in C/file_utils.h
+
+C:/Users/cwins/Desktop/School/2017/Winter/CIS 343 - Structure of Programming Languages/Projects/Project 1 - reverse in C/reverse.c
+stdio.h
+-
+malloc.h
+-
+file_utils.h
+C:/Users/cwins/Desktop/School/2017/Winter/CIS 343 - Structure of Programming Languages/Projects/Project 1 - reverse in C/file_utils.h
+

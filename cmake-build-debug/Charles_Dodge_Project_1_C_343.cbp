@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Charles_Dodge_Project_1_C_343"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/cwins/Desktop/School/2017/Winter/CIS 343 - Structure of Programming Languages/Projects/Project 1 - reverse in C/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/cwins/Desktop/School/2017/Winter/CIS 343 - Structure of Programming Languages/Projects/Project 1 - reverse in C/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/cwins/Desktop/School/2017/Winter/CIS 343 - Structure of Programming Languages/Projects/Project 1 - reverse in C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/cwins/Desktop/School/2017/Winter/CIS 343 - Structure of Programming Languages/Projects/Project 1 - reverse in C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/cwins/Desktop/School/2017/Winter/CIS 343 - Structure of Programming Languages/Projects/Project 1 - reverse in C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/cwins/Desktop/School/2017/Winter/CIS 343 - Structure of Programming Languages/Projects/Project 1 - reverse in C/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/cwins/Desktop/School/2017/Winter/CIS 343 - Structure of Programming Languages/Projects/Project 1 - reverse in C/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/cwins/Desktop/School/2017/Winter/CIS 343 - Structure of Programming Languages/Projects/Project 1 - reverse in C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/cwins/Desktop/School/2017/Winter/CIS 343 - Structure of Programming Languages/Projects/Project 1 - reverse in C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/cwins/Desktop/School/2017/Winter/CIS 343 - Structure of Programming Languages/Projects/Project 1 - reverse in C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Charles_Dodge_Project_1_C_343">
+				<Option output="C:/Users/cwins/Desktop/School/2017/Winter/CIS 343 - Structure of Programming Languages/Projects/Project 1 - reverse in C/cmake-build-debug/Charles_Dodge_Project_1_C_343.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/cwins/Desktop/School/2017/Winter/CIS 343 - Structure of Programming Languages/Projects/Project 1 - reverse in C/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/../../../../mingw32/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/cwins/Desktop/School/2017/Winter/CIS 343 - Structure of Programming Languages/Projects/Project 1 - reverse in C/cmake-build-debug/Makefile&quot;  VERBOSE=1 Charles_Dodge_Project_1_C_343"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/cwins/Desktop/School/2017/Winter/CIS 343 - Structure of Programming Languages/Projects/Project 1 - reverse in C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/cwins/Desktop/School/2017/Winter/CIS 343 - Structure of Programming Languages/Projects/Project 1 - reverse in C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/cwins/Desktop/School/2017/Winter/CIS 343 - Structure of Programming Languages/Projects/Project 1 - reverse in C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Charles_Dodge_Project_1_C_343/fast">
+				<Option output="C:/Users/cwins/Desktop/School/2017/Winter/CIS 343 - Structure of Programming Languages/Projects/Project 1 - reverse in C/cmake-build-debug/Charles_Dodge_Project_1_C_343.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/cwins/Desktop/School/2017/Winter/CIS 343 - Structure of Programming Languages/Projects/Project 1 - reverse in C/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/../../../../mingw32/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/cwins/Desktop/School/2017/Winter/CIS 343 - Structure of Programming Languages/Projects/Project 1 - reverse in C/cmake-build-debug/Makefile&quot;  VERBOSE=1 Charles_Dodge_Project_1_C_343/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/cwins/Desktop/School/2017/Winter/CIS 343 - Structure of Programming Languages/Projects/Project 1 - reverse in C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/cwins/Desktop/School/2017/Winter/CIS 343 - Structure of Programming Languages/Projects/Project 1 - reverse in C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/cwins/Desktop/School/2017/Winter/CIS 343 - Structure of Programming Languages/Projects/Project 1 - reverse in C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/cwins/Desktop/School/2017/Winter/CIS 343 - Structure of Programming Languages/Projects/Project 1 - reverse in C/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/cwins/Desktop/School/2017/Winter/CIS 343 - Structure of Programming Languages/Projects/Project 1 - reverse in C/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/cwins/Desktop/School/2017/Winter/CIS 343 - Structure of Programming Languages/Projects/Project 1 - reverse in C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/cwins/Desktop/School/2017/Winter/CIS 343 - Structure of Programming Languages/Projects/Project 1 - reverse in C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/cwins/Desktop/School/2017/Winter/CIS 343 - Structure of Programming Languages/Projects/Project 1 - reverse in C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/cwins/Desktop/School/2017/Winter/CIS 343 - Structure of Programming Languages/Projects/Project 1 - reverse in C/file_utils.c">
+			<Option target="Charles_Dodge_Project_1_C_343"/>
+		</Unit>
+		<Unit filename="C:/Users/cwins/Desktop/School/2017/Winter/CIS 343 - Structure of Programming Languages/Projects/Project 1 - reverse in C/file_utils.h">
+			<Option target="Charles_Dodge_Project_1_C_343"/>
+		</Unit>
+		<Unit filename="C:/Users/cwins/Desktop/School/2017/Winter/CIS 343 - Structure of Programming Languages/Projects/Project 1 - reverse in C/main.cpp">
+			<Option target="Charles_Dodge_Project_1_C_343"/>
+		</Unit>
+		<Unit filename="C:/Users/cwins/Desktop/School/2017/Winter/CIS 343 - Structure of Programming Languages/Projects/Project 1 - reverse in C/reverse.c">
+			<Option target="Charles_Dodge_Project_1_C_343"/>
+		</Unit>
+		<Unit filename="C:/Users/cwins/Desktop/School/2017/Winter/CIS 343 - Structure of Programming Languages/Projects/Project 1 - reverse in C/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

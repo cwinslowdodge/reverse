@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/cwins/Desktop/School/2017/Winter/CIS 343 - Structure of Programming Languages/Projects/Project 1 - reverse in C/main.cpp
+iostream
+-
+
